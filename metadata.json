@@ -1,0 +1,8 @@
+{
+  "name": "Google Cloud GenAI Project Studio & 5-in-1 Workbench",
+  "description": "Comprehensive GenAI student project studio featuring interactive tools for PocketSmart AI, LegalEase, ComicCraft, EduGenie, and FitBuddy, plus ready-to-run FastAPI project templates, code exporter, and submission guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
